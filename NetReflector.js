@@ -140,7 +140,7 @@
             trackerHtml += '<div class="NRTopStripe"></div>';
             trackerHtml += '<div class="NRNotification">';
             trackerHtml += '<div>' + this.trackerWindowText + '</div>';
-            trackerHtml += '<div class="PrivacyStatement"><a href="http://privacy.microsoft.com/">' + this.privacyStatementText + '</a></div></div>';
+            trackerHtml += '<div class="PrivacyStatement"><a href="http://privacy.microsoft.com/" target="blank">' + this.privacyStatementText + '</a></div></div>';
             trackerHtml += '<div class="NRBottomStripe" />';
             trackerHtml += '</div>';
             trackerHtml += '</body>';
